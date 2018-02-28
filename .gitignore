@@ -3,3 +3,9 @@ large_data/
 Syllabus.docx
 drafts/
 *.ipynb_checkpoints/
+*.aux
+*.log
+*.synctex.gz
+*.toc
+*.DS_Store
+*lectures/.ipynb_checkpoints/*
